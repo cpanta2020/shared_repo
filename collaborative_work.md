@@ -4,14 +4,16 @@
 ## Web Neutrality by Participant 1
 
 ### What is it?
-
+Proveedores de servicios de Internet (ISP) deben tratar todos los datos que viajan a través de sus redes de manera justa, sin discriminación inadecuada en favor de aplicaciones, sitios o servicios particulares, es un principio que debe mantenerse
 ### Advantages
-  - Advantage 1
-  - Advantage 2
-  - ...
+  - EVOLUCIÓN LIBRE DEL INTERNET
+  - PRIORIDAD DE SERVICIOS ES IGUAL.
+  - BENEFICIOS DE VELOCIDAD ES IGUAL
 
 ### Disadvantages
-
+  - MOTIVOS ECONÓMICOS
+  - IMPOSIBILIDAD DE PRIORIZAR CIERTOS SERVICIOS
+  - Los gobiernos y la información restringida
 
 ## Dot-com bubble by Participant 2
 
