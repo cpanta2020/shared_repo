@@ -8,7 +8,7 @@
 ### Advantages
   - Advantage 1
   - Advantage 2
-  - ...
+  - ..
 
 ### Disadvantages
 
